@@ -98,10 +98,10 @@ export default function Navigation() {
                     <div className="flex items-center justify-between mb-8">
                       <div className="flex items-center space-x-3">
                         <div className="w-10 h-10 bg-gradient-to-br from-amber-400 to-amber-600 rounded-lg flex items-center justify-center">
-                          <span className="text-slate-900 font-bold">G</span>
+                          <span className="text-slate-900 font-bold">AT</span>
                         </div>
                         <div>
-                          <h2 className="text-white font-bold">González & Associates</h2>
+                          <h2 className="text-white font-bold">Richard's & Attorneys</h2>
                           <p className="text-amber-400 text-xs">Excellence in Legal Representation</p>
                         </div>
                       </div>
