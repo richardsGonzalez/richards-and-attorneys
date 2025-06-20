@@ -168,8 +168,8 @@ export default function HeroSection() {
               <div className="absolute -bottom-4 -right-4 sm:-bottom-6 sm:-right-6 bg-gradient-to-br from-blue-500 to-blue-600 text-white p-3 sm:p-4 rounded-xl shadow-2xl transform -rotate-3 hover:rotate-0 transition-transform duration-300">
                 <div className="text-center">
                   <Users className="w-5 h-5 sm:w-6 sm:h-6 mx-auto mb-1" />
-                  <div className="text-xs sm:text-sm font-bold">LGBTQ</div>
-                  <div className="text-xs">Advocate</div>
+                  <div className="text-xs sm:text-sm font-bold">Real Estate</div>
+                  <div className="text-xs">Lawyer</div>
                 </div>
               </div>
             </div>
