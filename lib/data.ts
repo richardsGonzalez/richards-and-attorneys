@@ -20,7 +20,7 @@ export const principalAttorney = {
   name: "Richard González",
   title: "Esquire, Founding Partner",
   credentials: "J.D., CPA",
-  image: "/placeholder.svg?height=500&width=400",
+  image: "/founder.jpg",
   // phone: "+1-321-441-4500",
   email: "parichardgonzalez01@gmail.com",
   shortBio: "Native Miamian • Accomplished Lawyer • Community Advocate",
@@ -55,7 +55,7 @@ export const partners = [
     credentials: "B.A., LL.B",
     title: "Senior Partner",
     email: "carmakohnermpd28@gmail.com",
-    image: "/placeholder.svg?height=400&width=300",
+    image: "/carma.jpg",
     specializations: ["Real Estate Law", "Corporate Transactions", "Litigation"],
   },
   {
@@ -63,7 +63,7 @@ export const partners = [
     credentials: "B.Sc., J.D.",
     title: "Partner",
     email: "ennaniloa@gmail.com",
-    image: "/placeholder.svg?height=400&width=300",
+    image: "/lopez.jpg",
     specializations: ["Estate Planning", "Probate Administration", "Trust Law"],
   },
   {
@@ -71,7 +71,7 @@ export const partners = [
     credentials: "LL.B",
     title: "Partner",
     email: "wendynastasiaugf33@gmail.com",
-    image: "/placeholder.svg?height=400&width=300",
+    image: "/wendy.jpg",
     specializations: ["Family Law", "LGBTQ Rights", "Adoption Services"],
   },
 ]
