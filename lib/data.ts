@@ -74,6 +74,22 @@ export const partners = [
     image: "/wendy.jpg",
     specializations: ["Family Law", "LGBTQ Rights", "Adoption Services"],
   },
+  {
+    name: "Steve Kate",
+    credentials: "B.A., J.D.",
+    title: "Partner",
+    email: "akstok598@gmail.com",
+    image: "/kate.jpg",
+    specializations: ["Family Law", "HIV Protection Laws", "Adoption Services"],
+  },
+  {
+    name: "Koman Richard",
+    credentials: "B.A., LL.B",
+    title: "Partner",
+    email: "atia012rahman@gmail.com",
+    image: "/richard.jpg",
+    specializations: ["Real Estate", "LGBTQ Rights", "Business Law"],
+  },
 ]
 
 export const practiceAreas = [
