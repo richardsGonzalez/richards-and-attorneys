@@ -1,12 +1,28 @@
 import type { Config } from "tailwindcss";
 
 const config: Config = {
-    darkMode: ["class"],
-    content: [
-    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./app/**/*.{js,ts,jsx,tsx,mdx}",
-    "*.{js,ts,jsx,tsx,mdx}"
+	darkMode: ["class"],
+	content: [
+	"./pages/**/*.{js,ts,jsx,tsx,mdx}",
+	"./components/**/*.{js,ts,jsx,tsx,mdx}",
+	"./app/**/*.{js,ts,jsx,tsx,mdx}",
+	"*.{js,ts,jsx,tsx,mdx}"
+  ],
+	safelist: [
+    // Practice areas gradient colors
+    "from-blue-600",
+    "to-blue-800",
+    "from-emerald-600", 
+    "to-emerald-800",
+    "from-purple-600",
+    "to-purple-800",
+    "from-pink-600",
+    "to-pink-800",
+    "from-orange-600",
+    "to-orange-800",
+    "from-indigo-600",
+    "to-indigo-800",
+    "bg-gradient-to-br",
   ],
   theme: {
   	extend: {
