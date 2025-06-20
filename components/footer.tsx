@@ -114,7 +114,7 @@ export default function Footer() {
         <div className="border-t border-slate-700 mt-12 lg:mt-16 pt-6 lg:pt-8">
           <div className="flex flex-col lg:flex-row justify-between items-center space-y-4 lg:space-y-0">
             <p className="text-gray-400 text-sm text-center lg:text-left">
-              &copy; {new Date().getFullYear()} González & Associates, P.A. All rights reserved.
+              &copy; {new Date().getFullYear()} Richard's & Attorneys, P.A. All rights reserved.
             </p>
             <div className="flex flex-wrap justify-center lg:justify-end gap-4 lg:gap-8 text-sm text-gray-400">
               <span className="hover:text-amber-400 cursor-pointer transition-colors">Privacy Policy</span>

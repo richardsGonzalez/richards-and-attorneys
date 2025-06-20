@@ -43,7 +43,7 @@ export default function PracticeAreasSection() {
 
                 <CardHeader className="text-center pb-6 relative z-10">
                   <div
-                    className={`w-20 h-20 bg-gradient-to-br ${area.color} rounded-2xl flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-all duration-300 shadow-lg`}
+                    className={`w-20 h-20 bg-linear-to-br ${area.color} rounded-2xl flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-all duration-300 shadow-lg`}
                   >
                     <IconComponent className="w-10 h-10 text-white" />
                   </div>
