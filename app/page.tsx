@@ -5,6 +5,7 @@ import PracticeAreasSection from "@/components/practice-areas-section"
 import TeamSection from "@/components/team-section"
 import ContactSection from "@/components/contact-section"
 import Footer from "@/components/footer"
+import TeamCarousel from "@/components/team-carousel"
 
 export default function HomePage() {
   return (
@@ -13,7 +14,8 @@ export default function HomePage() {
       <HeroSection />
       <AboutSection />
       <PracticeAreasSection />
-      <TeamSection />
+      {/* <TeamSection /> */}
+      <TeamCarousel />
       <ContactSection />
       <Footer />
     </main>
